@@ -153,7 +153,7 @@ For reading geospatial datasets, we use [`xarray`](http://xarray.pydata.org/en/s
 
 ## Documentation
 
-We use Sphinx for building our docs and host them on Readthedocs. The latest build of the docs can be accessed online [here](https://wildfire-forecasting.readthedocs.io/en/latest/). In order to build the docs from source, you will need `sphinx` and `sphinx-autoapi`. Follow the instructions below:
+We use Sphinx for building our docs and host them on Readthedocs. The latest build of the docs can be accessed online [here](https://wildfire-forecasting.readthedocs.io/en/latest/). In order to build the docs from source, you will need `sphinx`, 'sphinx-rtd-theme' and `sphinx-autoapi`. Follow the instructions below:
 
 ```bash
 cd docs
